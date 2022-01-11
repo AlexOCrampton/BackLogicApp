@@ -6,7 +6,7 @@ Blog that documents the project and comments on the use of Logic Apps: https://a
 
 # Getting Started
 RAndDLogicApp contains a deployable (Azure SQL) database project. 
-EmailLogicApp contains a deployable logic app. Includes a parameters JSON file to provide details such as the logic app name. Requires an Azure Subscription to deploy.  
+EmailLogicApp contains a deployable logic app, includes a parameters JSON file to provide details such as the logic app name. Requires an Azure Subscription to deploy.  
 
 
 
