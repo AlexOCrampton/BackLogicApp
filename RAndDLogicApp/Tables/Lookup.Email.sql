@@ -1,0 +1,4 @@
+﻿CREATE TABLE Lookup.Email (
+	Email nvarchar(100) PRIMARY KEY,
+	FileID INT FOREIGN KEY (FileID) REFERENCES lookup.FileMetadata(FileID) ON DELETE SET NULL ON UPDATE CASCADE
+)

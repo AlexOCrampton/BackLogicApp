@@ -1,0 +1,2 @@
+C:\Users\AOC\source\repos\EmailLogicApp\RAndDLogicApp\EmailLogicApp\obj\Debug\EmailLogicApp.deployproj.CoreCompileInputs.cache
+C:\Users\AOC\Source\Repos\AlexOCrampton\LogicApp\EmailLogicApp\obj\Debug\EmailLogicApp.deployproj.CoreCompileInputs.cache
