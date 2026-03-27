@@ -2,7 +2,7 @@
 
 Project to build a Logic App that saves files to Azure Blob Storage that are sent to an Outlook email inbox, using Azure SQL database tables to provide appropriate file names and 
 folder conventions.
-Blog that documents the project and comments on the use of Logic Apps: https://adatis.co.uk/?p=49928&preview=true
+Blog that documents the project and comments on the use of Logic Apps: [https://adatis.co.uk/?p=49928&preview=true](https://telefonicatech.uk/blog/logic-apps-saving-files-sent-via-emails-into-blob-storage/)
 
 # Getting Started
 RAndDLogicApp contains a deployable (Azure SQL) database project. 
